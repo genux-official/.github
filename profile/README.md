@@ -48,16 +48,6 @@ Meet the amazing people behind Genux Official:
 
 ---
 
-## 📊 **Organization Stats**
-
-Here's a snapshot of our GitHub activity:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=genux-official&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=genux-official&layout=compact&theme=radical)
-
----
-
 ## 🌟 **Support Us**
 
 If you find our work helpful, consider supporting us:
